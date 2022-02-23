@@ -1,3 +1,4 @@
+# This is a git commit comment
 from PyQt5.QtCore import QVariant 
 from qgis.core import QgsProcessing
 from qgis.core import QgsProcessingAlgorithm
