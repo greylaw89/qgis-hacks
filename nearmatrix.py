@@ -1,4 +1,4 @@
-# This is a git commit comment 1
+# Kristoffer Law
 from PyQt5.QtCore import QVariant 
 from qgis.core import QgsProcessing
 from qgis.core import QgsProcessingAlgorithm
